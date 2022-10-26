@@ -3,6 +3,7 @@ import requests
 import unittest
 
 # Task 2: Look at the Get the URL that links to webpage of universities with Olympic medal wins
+#Sae Whan Choye
 # search for the url in the University of Michgian wikipedia page (in the third pargraph of the intro)
 # HINT: You will have to add https://en.wikipedia.org to the URL retrieved using BeautifulSoup
 def getLink(soup):
